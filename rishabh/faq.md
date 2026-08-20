@@ -2,7 +2,7 @@
 
 ## Who is Rishabh Chakrabarty?
 
-Rishabh Chakrabarty is a Paris-based media artist and researcher working on NeuroAI, immersive installations, and stereo-3D generative models. He also goes by Rish. Handle: rishistyping. He studied Interactive Media Arts at NYU Tisch.
+Rishabh Chakrabarty is a Paris-based media artist and researcher working on NeuroAI, immersive installations, and stereo-3D generative models. He also goes by Rish. Handle: rishistyping. He studied at Tisch School of the Arts, The Centre for the Recently Possible.
 
 ## What is For All Mankind?
 
