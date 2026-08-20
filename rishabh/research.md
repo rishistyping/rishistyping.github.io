@@ -19,6 +19,6 @@ Reviewer, NeurIPS Creative AI, July–October 2025.
 
 ## Profiles
 
-- ORCID https://orcid.org/0000-0002-2726-4618 (NYU Tisch IMA listed)
+- ORCID https://orcid.org/0000-0002-2726-4618 (Tisch School of the Arts, The Centre for the Recently Possible)
 - Google Scholar https://scholar.google.com/citations?user=bm-ipLEAAAAJ
 - JOPRO https://jopro.org/people/rishabh-chakrabarty/
